@@ -5,6 +5,8 @@ package com.atguigu.git;
  */
 public class HelloGet {
     public static void main(String[] args) {
-        System.out.println("hellow get!");
+        System.out.println("hello get!");
+        System.out.println("更新1");
+        System.out.println("更新2");
     }
 }
